@@ -1,0 +1,4 @@
+Var_1 DB 6
+Var_2 DB 1
+Var_3 DB 9
+Sub Var_1 Var_2 Var_3

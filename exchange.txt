@@ -1,0 +1,6 @@
+Var_1 DB 2 
+Var_2 DB 1
+2Var DB 1
+2.5Var DB 1
+WORD&WORD DB 1
+Exe Var_1 Var_2
